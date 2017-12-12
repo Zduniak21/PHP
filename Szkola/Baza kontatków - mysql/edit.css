@@ -1,0 +1,13 @@
+body{
+  margin-top: 20px;
+  margin-left: 40px;
+}
+input{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input:focus {
+    border: 3px solid #555;
+}

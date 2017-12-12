@@ -1,0 +1,28 @@
+body{
+margin: 0, auto;
+ background-image: url("tlo-blog.png");
+ background-size: cover ;
+ background-repeat: no-repeat;
+ color: ;
+}
+
+img{
+width: 100%;
+height: 200px;
+}
+h2{
+  text-align:center;
+  
+}
+h5{
+  margin-top: -50px;
+  float: right;
+  margin-right: 10px;
+}
+p{
+  border: solid 1px black;
+  border-radius: 5px;
+  
+  font-size: 18px;
+  margin-left: 20px;
+}
